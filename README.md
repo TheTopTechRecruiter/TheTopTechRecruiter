@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TheTopTechRecruiter
+- 👋 Hi, I’m Cameron @TheTopTechRecruiter
 - 👀 I’m interested in hiring Software Developers for Full Time / 100% remote jobs
-- 🌱 I’m currently hiring for Full Stack, .Net, Web, Java and Cloud Engineers
+- 🌱 I’m currently hiring for Full Stack, .Net, Web (Angular/React), Java and Cloud Engineers
 - 📫 How to reach me [linkedin.com/cameron.mabb](https://www.linkedin.com/in/cameronmabb)
 
 <!---
